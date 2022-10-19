@@ -10,6 +10,12 @@ header{
     color: white;
 }
 
+div {
+    text-align: center;
+    padding: 15px;
+
+
+}
 section {
     background-color: white;
     padding: 15px;
